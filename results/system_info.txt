@@ -1,0 +1,6 @@
+CPU      : 12th Gen Intel(R) Core(TM) i5-12450H (1 socket; 8 cores = 4P + 4E; WSL shows 12 logical CPUs)
+lscpu    : Thread(s) per core: 2 | Core(s) per socket: 6 (as exposed by WSL) | Socket(s): 1
+nproc    : 12
+Memory   : 7.6 GiB total, 2.0 GiB swap (WSL2)
+OS       : Ubuntu 24.04 (noble) on WSL2
+Compiler : gcc 13.3.0 (-O2); Open MPI 4.1.6

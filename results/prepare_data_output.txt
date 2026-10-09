@@ -1,0 +1,7 @@
+yellow_tripdata_2015-01.csv: raw=12748986  kept=12748927  removed=59
+yellow_tripdata_2016-01.csv: raw=10906858  kept=10906847  removed=11
+yellow_tripdata_2016-02.csv: raw=11382049  kept=11382020  removed=29
+yellow_tripdata_2016-03.csv: raw=12210952  kept=12210929  removed=23
+
+TOTAL raw=47248845  kept=47248723  removed=122
+Binary file: /home/arunh/pgc_project/data/trip_distance_all.bin  (378.0 MB)
